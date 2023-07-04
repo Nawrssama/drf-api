@@ -1,5 +1,6 @@
 from django.test import TestCase
 from .models import Game
+from django.contrib.auth import get_user_model
 
 # Create your tests here.
 class GameTests(TestCase):
