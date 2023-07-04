@@ -13,6 +13,3 @@
 ### How do you run the code?
 
 > - python manage.py runserver
-
-
-## Pull Request link :  
